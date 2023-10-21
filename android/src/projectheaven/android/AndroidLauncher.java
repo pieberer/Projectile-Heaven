@@ -1,10 +1,10 @@
-package com.terraspark.projectheaven;
+package projectheaven.android;
 
 import android.os.Bundle;
 
 import com.badlogic.gdx.backends.android.AndroidApplication;
 import com.badlogic.gdx.backends.android.AndroidApplicationConfiguration;
-import com.terraspark.projectheaven.Main;
+import projectheaven.Main;
 
 public class AndroidLauncher extends AndroidApplication {
 	@Override

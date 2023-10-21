@@ -1,8 +1,8 @@
-package com.terraspark.projectheaven;
+package projectheaven.desktop;
 
 import com.badlogic.gdx.backends.lwjgl3.Lwjgl3Application;
 import com.badlogic.gdx.backends.lwjgl3.Lwjgl3ApplicationConfiguration;
-import com.terraspark.projectheaven.Main;
+import projectheaven.Main;
 
 // Please note that on macOS your application needs to be started with the -XstartOnFirstThread JVM argument
 // ok lol
@@ -12,7 +12,8 @@ public class DesktopLauncher {
 
 		config.setForegroundFPS(60);
 		config.setTitle("Projectile Heaven");
-		config.setWindowIcon("badlogic.jpg");
+		config.setWindowIcon("cat.png");
+		config.setWindowedMode(626, 417);
 
 		new Lwjgl3Application(new Main(), config);
 	}

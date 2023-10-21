@@ -82,7 +82,9 @@ project(":core") {
     dependencies {
         api "com.badlogicgames.gdx:gdx:$gdxVersion"
         api "com.badlogicgames.gdx:gdx-box2d:$gdxVersion"
-        api "com.github.tommyettinger:jbump:1.0.1"
+        api "com.badlogicgames.box2dlights:box2dlights:$box2DLightsVersion"
+        api "com.badlogicgames.gdx:gdx-ai:$aiVersion"
+        api "com.badlogicgames.ashley:ashley:$ashleyVersion"
         
     }
 }

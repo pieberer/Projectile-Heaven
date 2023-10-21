@@ -1,11 +1,11 @@
-package com.terraspark.projectheaven;
+package projectheaven.ios;
 
 import org.robovm.apple.foundation.NSAutoreleasePool;
 import org.robovm.apple.uikit.UIApplication;
 
 import com.badlogic.gdx.backends.iosrobovm.IOSApplication;
 import com.badlogic.gdx.backends.iosrobovm.IOSApplicationConfiguration;
-import com.terraspark.projectheaven.Main;
+import projectheaven.Main;
 
 public class IOSLauncher extends IOSApplication.Delegate {
     @Override
