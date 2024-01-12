@@ -11,6 +11,8 @@ import com.badlogic.gdx.graphics.g2d.SpriteBatch;
 import com.badlogic.gdx.graphics.glutils.ShapeRenderer;
 import com.badlogic.gdx.scenes.scene2d.Stage;
 import com.badlogic.gdx.scenes.scene2d.ui.Image;
+import com.badlogic.gdx.scenes.scene2d.ui.Label;
+import com.badlogic.gdx.scenes.scene2d.ui.Skin;
 import com.badlogic.gdx.utils.viewport.FitViewport;
 import com.badlogic.gdx.utils.viewport.ScreenViewport;
 import com.badlogic.gdx.utils.viewport.Viewport;
@@ -32,6 +34,8 @@ public class Main extends ApplicationAdapter {
 
 	int count;
 
+	Label fpsDisplay;
+
 	@Override
 	public void create () {
 		viewport = new FitViewport(626, 417);
@@ -47,6 +51,8 @@ public class Main extends ApplicationAdapter {
 
 		playerx = 626 / 2;
 		playery = 417 / 2;
+
+		//fpsDisplay = new Label("t", new Skin(Gdx.files.internal("uiskin.json")));
 	}
 
 	@Override
@@ -89,19 +95,5 @@ public class Main extends ApplicationAdapter {
 	@Override
 	public void resize(int width, int height) {
 		viewport.update(width, height);
-	}
-}
-
-class Projectile {
-	// TODO
-	// FIXME
-	ShapeRenderer proj;
-	int projX;
-	int projY;
-	Projectile() {
-
-	}
-	void update() {
-
 	}
 }
