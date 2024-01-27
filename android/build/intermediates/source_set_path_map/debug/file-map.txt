@@ -1,0 +1,17 @@
+projectheaven.android-lifecycle-livedata-core-2.5.1-0 C:\Users\user\.gradle\caches\transforms-3\0ca0264646f024b03ef5c87f9aea910a\transformed\lifecycle-livedata-core-2.5.1\res
+projectheaven.android-lifecycle-runtime-2.5.1-1 C:\Users\user\.gradle\caches\transforms-3\145baaae86ae4377670bfc76cba6f8a3\transformed\lifecycle-runtime-2.5.1\res
+projectheaven.android-annotation-experimental-1.1.0-2 C:\Users\user\.gradle\caches\transforms-3\4092b8b6469ee13dc0f1e669e53095bf\transformed\annotation-experimental-1.1.0\res
+projectheaven.android-fragment-1.5.7-3 C:\Users\user\.gradle\caches\transforms-3\8a90f9b0d716b10b3e6442499b407190\transformed\fragment-1.5.7\res
+projectheaven.android-lifecycle-viewmodel-savedstate-2.5.1-4 C:\Users\user\.gradle\caches\transforms-3\ae971fd99ef028b410adc58260b2d608\transformed\lifecycle-viewmodel-savedstate-2.5.1\res
+projectheaven.android-savedstate-1.2.0-5 C:\Users\user\.gradle\caches\transforms-3\afae9897145f28966fb15910fda38d63\transformed\savedstate-1.2.0\res
+projectheaven.android-lifecycle-viewmodel-2.5.1-6 C:\Users\user\.gradle\caches\transforms-3\b0784ad034b5f8ce58636a2680c48173\transformed\lifecycle-viewmodel-2.5.1\res
+projectheaven.android-activity-1.5.1-7 C:\Users\user\.gradle\caches\transforms-3\b1950bb690a225b378a6bca22ae03ec1\transformed\activity-1.5.1\res
+projectheaven.android-core-1.8.0-8 C:\Users\user\.gradle\caches\transforms-3\f18af0dbdaedfd2a33ca290be548b622\transformed\core-1.8.0\res
+projectheaven.android-pngs-9 C:\Users\user\Documents\Coding Projects\java\ProjectileHeaven\android\build\generated\res\pngs\debug
+projectheaven.android-resValues-10 C:\Users\user\Documents\Coding Projects\java\ProjectileHeaven\android\build\generated\res\resValues\debug
+projectheaven.android-rs-11 C:\Users\user\Documents\Coding Projects\java\ProjectileHeaven\android\build\generated\res\rs\debug
+projectheaven.android-mergeDebugResources-12 C:\Users\user\Documents\Coding Projects\java\ProjectileHeaven\android\build\intermediates\incremental\debug\mergeDebugResources\merged.dir
+projectheaven.android-mergeDebugResources-13 C:\Users\user\Documents\Coding Projects\java\ProjectileHeaven\android\build\intermediates\incremental\debug\mergeDebugResources\stripped.dir
+projectheaven.android-merged_res-14 C:\Users\user\Documents\Coding Projects\java\ProjectileHeaven\android\build\intermediates\merged_res\debug
+projectheaven.android-android-15 C:\Users\user\Documents\Coding Projects\java\ProjectileHeaven\android\res
+projectheaven.android-debug-16 C:\Users\user\Documents\Coding Projects\java\ProjectileHeaven\android\src\debug\res

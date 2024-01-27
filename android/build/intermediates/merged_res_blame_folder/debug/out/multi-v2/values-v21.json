@@ -1,0 +1,47 @@
+{
+    "logs": [
+        {
+            "outputFile": "projectheaven.android-mergeDebugResources-12:/values-v21/values-v21.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\user\\.gradle\\caches\\transforms-3\\f18af0dbdaedfd2a33ca290be548b622\\transformed\\core-1.8.0\\res\\values-v21\\values-v21.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,13",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,173,237,304,368,484,610,736,864,1036",
+                        "endLines": "2,3,4,5,6,7,8,9,12,17",
+                        "endColumns": "117,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "168,232,299,363,479,605,731,859,1031,1383"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,9,10,11,12,13,16",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,173,237,304,549,665,791,917,1045,1217",
+                        "endLines": "2,3,4,5,9,10,11,12,15,20",
+                        "endColumns": "117,63,66,63,115,125,125,127,12,12",
+                        "endOffsets": "168,232,299,363,660,786,912,1040,1212,1564"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\Documents\\Coding Projects\\java\\ProjectileHeaven\\android\\res\\values-v21\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "4",
+                        "endColumns": "12",
+                        "endOffsets": "231"
+                    },
+                    "to": {
+                        "startLines": "6",
+                        "startColumns": "4",
+                        "startOffsets": "368",
+                        "endLines": "8",
+                        "endColumns": "12",
+                        "endOffsets": "544"
+                    }
+                }
+            ]
+        }
+    ]
+}

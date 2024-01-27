@@ -1,5 +1,5 @@
 android {
-    namespace "com.terraspark.projectheaven"
+    namespace "projectheaven"
     buildToolsVersion "33.0.2"
     compileSdkVersion 32
     sourceSets {
@@ -18,7 +18,7 @@ android {
         exclude 'META-INF/robovm/ios/robovm.xml'
     }
     defaultConfig {
-        applicationId "com.terraspark.projectheaven"
+        applicationId "projectheaven"
         minSdkVersion 14
         targetSdkVersion 32
         versionCode 1
@@ -83,7 +83,7 @@ tasks.register('run', Exec) {
     }
 
     def adb = path + "/platform-tools/adb"
-    commandLine "$adb", 'shell', 'am', 'start', '-n', 'com.terraspark.projectheaven/com.terraspark.projectheaven.AndroidLauncher'
+    commandLine "$adb", 'shell', 'am', 'start', '-n', 'projectheaven/projectheaven.AndroidLauncher'
 }
 
 eclipse.project.name = appName + "-android"
